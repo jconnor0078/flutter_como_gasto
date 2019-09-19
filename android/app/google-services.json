@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1036717864102",
+    "firebase_url": "https://comogasto-1fd8a.firebaseio.com",
+    "project_id": "comogasto-1fd8a",
+    "storage_bucket": "comogasto-1fd8a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1036717864102:android:6373ea94dc9cce3e0a3067",
+        "android_client_info": {
+          "package_name": "com.example.como_gasto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1036717864102-hnvhegnqnbm2sarut2ntqk7so15q8f28.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBr_BIuQJPvv_PVXkEIQL1ZvRx0y2ozmkk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1036717864102-hnvhegnqnbm2sarut2ntqk7so15q8f28.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
